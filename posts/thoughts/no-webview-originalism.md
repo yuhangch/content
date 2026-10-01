@@ -5,7 +5,7 @@ categories: ["thought"]
 isDraft: false
 ---
 
-最近做了俩软件，pandanote和pandareader，note是自己看到[evernote](https://evernote.com/)做的，reader是看到[papr](https://github.com/l0ng-ai/papr)做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。
+最近做了俩软件，[pandanote](https://github.com/panda-note/panda-note)和[pandareader](https://github.com/yuhangch/panda-reader)，note是自己看到[evernote](https://evernote.com/)做的，reader是看到[papr](https://github.com/l0ng-ai/papr)做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。
 
 写这篇文章是在做reader的时候内心一直处在一种拧巴的状态，虽然自己做也挺方便的，但看着界面和ai聊天也是种消耗。想通过写篇东西顺道梳理一下自己。我在构思pandareader的app story的时候，就明确了这个软件就是我自己用的：
 
